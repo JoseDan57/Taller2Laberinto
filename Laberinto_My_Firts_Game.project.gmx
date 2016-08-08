@@ -53,6 +53,7 @@
     <sprite>sprites\sprArañaAbajo</sprite>
     <sprite>sprites\sprEnemigoBu</sprite>
     <sprite>sprites\sprEsqueleto</sprite>
+    <sprite>sprites\sprFuego</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -82,6 +83,7 @@
       <object>objects\objEnemigoH</object>
       <object>objects\objEnemigo3</object>
       <object>objects\objEnemigo4</object>
+      <object>objects\objFuego</object>
     </objects>
     <object>objects\objPuerta</object>
     <object>objects\objPuerta2</object>
